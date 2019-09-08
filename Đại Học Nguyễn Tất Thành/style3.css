@@ -1,0 +1,151 @@
+
+#slideshow{
+	width: 80%;
+	margin: 0px auto;
+	height: 400px;
+	position: relative;
+}
+.image-list{
+	width: 100%;
+}
+.images-list img{
+	width: 100%;
+	height: 400px;
+}
+.title{
+	height: 100px;
+	background-color: rgb(0,195,255);
+	position: relative;
+	bottom: 100px; 
+	opacity: 0.5;
+	font-family: 'Courier New',Courier, monospace;
+	font-size: 40;
+	font-weight: bold;
+	text-align: center;
+	color: aliceblue;
+	line-height: 100px;
+}
+
+span{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 40px;
+	background-color: rgb(0,51,128);
+	width: 80px;
+	text-align: center;;
+	border-radius: 40px
+}
+.arrow-left{
+	position: absolute;
+	top: 50%;
+	left: 70px;
+	transform: translate(-50%,-50%);
+}
+.arrow-right{
+	position: absolute;
+	top: 50%;
+	right: 70px;
+	transform: translate(50%,-50%);
+}
+.anhmain1{
+	list-style: none;
+}
+.ulmain1{
+	display: flex;
+}
+.main{
+	display: flex;
+}
+.ulmain2{
+	list-style: none;
+}
+.main0{
+	display: flex;
+}
+
+.ulmain01{
+	display: flex;
+}
+.limain02{
+	display: flex;
+}
+#footer{
+    display: flex;
+    background-color: #024282; 
+}
+body{
+    
+    margin: 0 auto;
+}
+li{
+     list-style: none; 
+}
+.word b{
+    font-weight: bolder;
+    font-size: 20.5px
+    
+}
+.table1{ 
+    width: 25%;
+    padding-left: 2.5cm;
+    margin-left: 80px;
+}
+.table2{
+    width: 25%;
+    font-weight: bolder;
+    font-size: 20.5px;
+    margin-left: 80px
+}
+.table3{
+    width: 25%;
+    margin-right: 1px;
+    margin-right: 0px
+}
+.table4{
+margin-right: 170px
+}
+ul.sub-page{
+    width: 300px;
+    height: 10px;
+.   
+}
+a.btn{
+    width: 50px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 50px
+   
+}
+.sub-page li{
+    margin-bottom: 8px;
+    background-color: #42719f;
+    border: 2px solid #42719f;
+    border-radius: 12px;
+    
+}
+i{
+      width: 30px;
+      height: 31.5px;
+}
+a:link {
+   
+    text-decoration: none;
+}
+ a:hover {
+    text-decoration: underline;
+    color: #990000;
+ }
+a{
+     color: white;
+     line-height: 30px;
+ }
+.TTvaBQ{
+     display: flex;
+}
+.TT{
+     width: 50%;
+     margin-left: 210px
+}
+.QQ{
+    width: 50%;
+}
