@@ -1,4 +1,8 @@
 
+.menu{
+	background-color: #294981;
+	text-transform: uppercase;
+}
 #slideshow{
 	width: 80%;
 	margin: 0px auto;
