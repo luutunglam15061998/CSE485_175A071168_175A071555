@@ -15,6 +15,7 @@
 		if ($pass == $row['password']) {
 			session_start();
 			$_SESSION['user'] = $email;
+			$_SESSION['password'] = $password;
 			header("Location:admin.php");
 		}
 		else{
